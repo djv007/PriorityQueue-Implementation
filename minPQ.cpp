@@ -117,3 +117,21 @@ int main() {
 	
 }
 
+
+
+/*
+Output is as follows of the above code  : 
+
+Size : 7
+Minimum element in the Priority Queue right now : 4
+Current Minimum element which is being deleted : 4
+Current Minimum element which is being deleted : 10
+Current Minimum element which is being deleted : 15
+Current Minimum element which is being deleted : 17
+Current Minimum element which is being deleted : 21
+Current Minimum element which is being deleted : 67
+Current Minimum element which is being deleted : 100
+
+Size after deleting all elements : 0
+*/
+
